@@ -1,7 +1,7 @@
 # project-car
- N | Center-aligned | Right-aligned |
+ N | Functional requirements| NON Functional requirements |
 | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
+|  1   | git status     | git status    |
 | git diff     | git diff       | git diff      |
 | git status   | git status     | git status    |
 | git status   | git status     | git status    |
